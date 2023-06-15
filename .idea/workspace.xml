@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74215469-308c-428b-b112-add400214635" name="Changes" comment="" />
+    <list default="true" id="74215469-308c-428b-b112-add400214635" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Base/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Base/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/TestCases.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +38,117 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/AT_Assignment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.TestCases">
+    <configuration name="Assignment" type="TestNG">
+      <module name="AT_Assignment" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Assignment" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TestCases" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.TestCase_SearchUserWithPartialTextMatch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TestCases" />
+      <option name="METHOD_NAME" value="TestCase_SearchUserWithPartialTextMatch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.TestCase_VerifyUserCanAddPayGrades" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AT_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.TestCases" />
+      <option name="METHOD_NAME" value="TestCase_VerifyUserCanAddPayGrades" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Assignment" />
+      <item itemvalue="TestNG.TestCases.TestCase_VerifyUserCanAddPayGrades" />
+      <item itemvalue="TestNG.TestCases.TestCase_SearchUserWithPartialTextMatch" />
+      <item itemvalue="TestNG.TestCases" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestCases" />
+        <item itemvalue="TestNG.TestCases.TestCase_VerifyUserCanAddPayGrades" />
+        <item itemvalue="TestNG.TestCases.TestCase_SearchUserWithPartialTextMatch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +157,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686684433187</updated>
-      <workItem from="1686684433628" duration="10000" />
+      <workItem from="1686684433628" duration="38000" />
+      <workItem from="1686684489211" duration="184000" />
+      <workItem from="1686684689915" duration="171000" />
+      <workItem from="1686684996488" duration="5103000" />
+      <workItem from="1686716257901" duration="4786000" />
+      <workItem from="1686721172993" duration="4251000" />
+      <workItem from="1686728092720" duration="10029000" />
+      <workItem from="1686743399233" duration="22661000" />
+      <workItem from="1686767961166" duration="10482000" />
+      <workItem from="1686801031765" duration="8993000" />
+      <workItem from="1686811379085" duration="2493000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
